@@ -63,7 +63,7 @@ mgr_1 = Manager('Tonny', 'Montana', 90000, [dev_1])
 
 print(len(dev_1))
 
-#print(dev_1 + dev_2)       
+print(dev_1 + dev_2)       
 
 #print(repr(dev_1))
 #print(str(dev_1))
